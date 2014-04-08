@@ -1,3 +1,4 @@
-## Coursera.org's Data Science Specialization
+## Coursera.org: Data Science Specialization
 
-* HelloWorld.md - Sample markdown file for Peer Assignment #1 - The Data Scientist's Toolbox
+###The Data Scientist's Toolbox
+* HelloWorld.md - Sample markdown file for Peer Assignment #1
